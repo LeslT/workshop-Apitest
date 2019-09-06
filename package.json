@@ -1,0 +1,28 @@
+{
+  "name": "psl-spotify",
+  "version": "1.0.0",
+  "description": "workshop about apitesting with Spotify",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeslT/workshop-Apitest.git"
+  },
+  "keywords": [
+    "api-testing",
+    "dojo",
+    "practice"
+  ],
+  "author": "Leslie Torres <lesliejailine@hotmail.com> (LeslT)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeslT/workshop-Apitest/issues"
+  },
+  "homepage": "https://github.com/LeslT/workshop-Apitest#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
